@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3d5065f-50b7-4e37-af32-e1057a142e2e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Main/.idea/modules.xml" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.lock" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.log" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/AnalogClock.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/AutoCompleteTextView.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/Button.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/CalendarView.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/CheckBox.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/CheckedTextView.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/Date.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/DigitalClock.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/Email.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/ExpandableListView.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/LargeText.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/ListView.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/MediumText.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/MultiAutoCompleteTextView.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/MultilineText.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/Number.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/NumberDecimal.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/NumberSigned.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/Password.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/PasswordNumeric.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/PersonName.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/Phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/PlainText.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/PostalAddress.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/ProgressBarHorizontal.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/ProgressBarLarge.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/ProgressBarNormal.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/ProgressBarSmall.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/QuickContactBadge.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/RadioButton.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/RadioGroup.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/RatingBar.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/SeekBar.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/SmallButton.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/SmallText.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/Spinner.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/Switch.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/TabHost.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/TabWidget.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/TextView.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/Time.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/ToggleButton.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/ZoomButton.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/ZoomControls.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-21-apptheme-37wvganexusone/preview.properties" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.cdt.core/.log" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.cdt.make.core/specs.c" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.cdt.make.core/specs.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/0/a031a96c906a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/15/002ce08ec46900141be4f55cc193cd15" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/19/301306f98f6a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/26/402903b88f6a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/3/60dc227b8e6a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/3/80a0da57936a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/3/f00d0603946a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/37/2052b20c926a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/44/c09eba3cc36900141be4f55cc193cd15" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/44/e0c055f88d6a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/49/90ab8cc4c36900141be4f55cc193cd15" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/4b/703e6290906a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/4e/30d0e036926a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/4f/5003036f946a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/55/302e004b926a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/58/40aa42d8906a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/60/2089bb3cc36900141be4f55cc193cd15" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/66/002804a5926a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/69/c0805686c46900141be4f55cc193cd15" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/77/902a5484946a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/8/40e1408c8e6a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/8/a0c1bc3cc36900141be4f55cc193cd15" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/82/50a89354926a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/85/909ee37a906a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/9/7039f57d926a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/95/e0972096946a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/97/c01c94d0906a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/98/d0e98e74926a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/a0/d07c217b8e6a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/a5/20fabd3cc36900141be4f55cc193cd15" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/a5/e0a06480946a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/a9/1035a577936a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/a9/50ea41e68d6a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/af/908c94c9936a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/af/d0bc678dc46900141be4f55cc193cd15" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/b7/00cab83cc36900141be4f55cc193cd15" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/bf/a034a8a9926a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/c2/b0decc9a906a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/cb/5056e9dc8d6a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d/507177a5946a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d5/c001ab07906a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/db/f031ba858e6a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/dc/201e9bb1926a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/dc/50df455c926a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/e0/20675dbf8d6a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/e9/c0dd0386916a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/ed/7061c2a9946a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/f4/e0159e60926a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/f6/d013d5948e6a00141ac8ae65a241088d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/fb/c001799cc46900141be4f55cc193cd15" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.jdt.core.external.folders/.location" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.jdt.core.external.folders/.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.jdt.core.external.folders/.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Snaps_ia/.indexes/a0/5f/properties.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Snaps_ia/.indexes/a0/8a/properties.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Snaps_ia/.indexes/a0/d6/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Snaps_ia/.indexes/a0/d6/properties.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Snaps_ia/.indexes/a0/de/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Snaps_ia/.indexes/a0/de/properties.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Snaps_ia/.indexes/a0/eb/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Snaps_ia/.indexes/a0/eb/properties.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Snaps_ia/.indexes/a0/ee/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Snaps_ia/.indexes/a0/ee/properties.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Snaps_ia/.indexes/e4/81/96/2e/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Snaps_ia/.indexes/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Snaps_ia/.indexes/properties.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Snaps_ia/.markers" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Snaps_ia/.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Snaps_ia/.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/4.tree" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.resources/.snap" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.android.ide.eclipse.adt.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.android.ide.eclipse.ddms.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.debug.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Snaps_ia.launch" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.core/.org.eclipse.jdt.core.external.folders/.project" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.core/2203379313.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.core/2903576722.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.core/301679022.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.core/invalidArchivesCache" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2014/11/46/refactorings.history" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2014/11/46/refactorings.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.wst.sse.ui/dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/.metadata/version.ini" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/.project" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/Snaps_ia.apk" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/classes/com/example/snaps_ia/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/classes/com/example/snaps_ia/MainActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/classes/com/example/snaps_ia/MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/classes/com/example/snaps_ia/PhotoActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/classes/com/example/snaps_ia/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/classes/com/example/snaps_ia/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/classes/com/example/snaps_ia/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/classes/com/example/snaps_ia/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/classes/com/example/snaps_ia/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/classes/com/example/snaps_ia/R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/classes/com/example/snaps_ia/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/classes/com/example/snaps_ia/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/classes/com/example/snaps_ia/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/dexedLibs/android-support-v4-50235de112e6d5679573f807548c90ca.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/jarlist.cache" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/res/crunch/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/res/crunch/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/res/crunch/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/res/crunch/drawable-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/bin/resources.ap_" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/gen/com/example/snaps_ia/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/gen/com/example/snaps_ia/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/ic_launcher-web.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/libs/android-support-v4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/res/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/res/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/res/drawable-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/res/layout/activity_photo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/res/menu/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/res/menu/photo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/res/values-v11/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/res/values-v14/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/src/com/example/snaps_ia/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IA/src/com/example/snaps_ia/PhotoActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/.project" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/bin/.project" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/bin/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/bin/ic_launcher-web.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/bin/libs/android-support-v4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/bin/proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/bin/res/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/bin/res/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/bin/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/bin/res/drawable-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/bin/res/values-v11/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/bin/res/values-v14/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/bin/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/bin/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/ic_launcher-web.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/libs/android-support-v4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/res/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/res/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/res/drawable-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/res/values-v11/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/res/values-v14/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Android Snaps_IA/workspace/Snaps_IAState/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Documents/Coms sci 327/Dungeon game/object_desc.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/POC_Code/agDemo/agDemo/agDemo/Pages/adEditProfile.xaml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/POC_Code/agDemo/agDemo/agDemo/Pages/adEditProfile.xaml.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/AppDelegate.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/Main.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/MainStoryboard_iPad.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/MainStoryboard_iPhone.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/QSTodoListViewController.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/QSTodoListViewController.designer.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/QSTodoService.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/Resources/Default-568h@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/Resources/Default-Landscape.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/Resources/Default-Landscape@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/Resources/Default-Portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/Resources/Default-Portrait@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/Resources/Default.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/Resources/Default@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/Resources/Icon-72.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/Resources/Icon-72@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/Resources/Icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/Resources/Icon@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/TaskManagementPro.csproj" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/TaskManagementPro_Xamarin_iOS/TaskManagementPro/ToDoItem.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Empower/Empower.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Empower/Empower/AppDelegate.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Empower/Empower/AppDelegate.m" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Empower/Empower/Base.lproj/LaunchScreen.xib" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Empower/Empower/Base.lproj/Main.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Empower/Empower/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Empower/Empower/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Empower/Empower/ViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Empower/Empower/ViewController.m" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Empower/Empower/main.m" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Empower/EmpowerTests/EmpowerTests.m" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Empower/EmpowerTests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IOS Developer/Empower/Empower.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IOS Developer/Empower/Empower/AppDelegate.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IOS Developer/Empower/Empower/AppDelegate.m" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IOS Developer/Empower/Empower/Base.lproj/LaunchScreen.xib" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IOS Developer/Empower/Empower/Base.lproj/Main.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IOS Developer/Empower/Empower/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IOS Developer/Empower/Empower/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IOS Developer/Empower/Empower/ViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IOS Developer/Empower/Empower/ViewController.m" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IOS Developer/Empower/Empower/main.m" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IOS Developer/Empower/EmpowerTests/EmpowerTests.m" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/IOS Developer/Empower/EmpowerTests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/Demo/Android/packages.config" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/Demo/Demo/MyPage.xaml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/Demo/Demo/MyPage.xaml.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/Demo/Demo/MyPage2.xaml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/Demo/Demo/MyPage2.xaml.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/Demo/Demo/packages.config" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/Demo/iOS/packages.config" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/FristLoginDemo/Android/packages.config" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/FristLoginDemo/FristLoginDemo/DashboardPage.xaml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/FristLoginDemo/FristLoginDemo/DashboardPage.xaml.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/FristLoginDemo/FristLoginDemo/LoginPage.xaml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/FristLoginDemo/FristLoginDemo/LoginPage.xaml.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/FristLoginDemo/FristLoginDemo/PromptPage.xaml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/FristLoginDemo/FristLoginDemo/PromptPage.xaml.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/FristLoginDemo/FristLoginDemo/packages.config" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/FristLoginDemo/iOS/Resources/image001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/FristLoginDemo/iOS/packages.config" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginExample/Android/packages.config" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginExample/LoginExample/LoginPage.xaml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginExample/LoginExample/LoginPage.xaml.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginExample/LoginExample/packages.config" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginExample/iOS/LoginViewController.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginExample/iOS/LoginViewController.designer.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginExample/iOS/LoginViewController.xib" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginExample/iOS/Main.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginExample/iOS/packages.config" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginPageDemo/Android/packages.config" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginPageDemo/LoginPageDemo/LoginHomePage.xaml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginPageDemo/LoginPageDemo/LoginHomePage.xaml.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginPageDemo/LoginPageDemo/LoginPAge.xaml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginPageDemo/LoginPageDemo/LoginPAge.xaml.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginPageDemo/LoginPageDemo/image001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginPageDemo/LoginPageDemo/packages.config" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginPageDemo/iOS/packages.config" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginPageExample/Android/packages.config" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginPageExample/LoginPageExample/LoginPage.xaml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginPageExample/LoginPageExample/LoginPage.xaml.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginPageExample/LoginPageExample/packages.config" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/LoginPageExample/iOS/packages.config" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/Nothin_but_Deals/Nothin_but_Deals/DealsTableViewDatasource.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/Nothin_but_Deals/Nothin_but_Deals/DealsTableViewDelegateAndDatasource.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/Nothin_but_Deals/Nothin_but_Deals/LocationAlertDelegate.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/Nothin_but_Deals/Nothin_but_Deals/WhetherSessionDelegate.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/WindowsAzureMobileServicesDemo/WindowsAzureMobileServicesDemo/EmptyClass.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/WindowsAzureMobileServicesDemo/WindowsAzureMobileServicesDemo/Item.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/agEditProfile/Android/packages.config" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/agEditProfile/agEditProfile/EditProfilePage.xaml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/agEditProfile/agEditProfile/EditProfilePage.xaml.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/agEditProfile/agEditProfile/MyPage.xaml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/agEditProfile/agEditProfile/MyPage.xaml.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/agEditProfile/agEditProfile/agEditProfilePage.xaml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/agEditProfile/agEditProfile/agEditProfilePage.xaml.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/agEditProfile/agEditProfile/packages.config" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Projects/agEditProfile/iOS/packages.config" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Calculator/mainwindow.cpp" afterPath="$USER_HOME$/Calculator/mainwindow.cpp" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Calculator/mainwindow.h" afterPath="$USER_HOME$/Calculator/mainwindow.h" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Calculator/mainwindow.ui" afterPath="$USER_HOME$/Calculator/mainwindow.ui" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Coms sci 327/Dungeon game/CHANGELOG" afterPath="$USER_HOME$/Documents/Coms sci 327/Dungeon game/CHANGELOG" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Coms sci 327/Dungeon game/README" afterPath="$USER_HOME$/Documents/Coms sci 327/Dungeon game/README" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Server.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/Server.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Authentication.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/Authentication.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+              <folding>
+                <element signature="e#14#101#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="e#14#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Server.go" />
+        <option value="$PROJECT_DIR$/Authentication.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/main/main.go" />
+        <option value="$PROJECT_DIR$/main/Authentication.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="43" />
+    <option name="width" value="1260" />
+    <option name="height" value="690" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AgriBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AgriBot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AgriBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AgriBot" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="settings.editor.selected.configurable" value="gogland.project.structure" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="AgriBot" />
+      <working_directory value="$PROJECT_DIR$/main" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="main" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="AgriBot" />
+      <working_directory value="$PROJECT_DIR$/main" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main/main.go" />
+      <package value="$PROJECT_DIR$/main" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="43" width="1260" height="690" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32847896" sideWeight="0.5063492" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32847896" sideWeight="0.4936508" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main/Server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/Authentication.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <element signature="e#14#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/Server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/Authentication.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="1" lean-forward="false" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AgriBot Server/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/Server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/Authentication.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+          <folding>
+            <element signature="e#14#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
